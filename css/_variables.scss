@@ -1,0 +1,32 @@
+// color
+$base: purple;
+$frame: ivory;
+
+@for $i from 1 through 9 {
+    @if ($i != 5) {
+        .text-purple-light-#{$i} {
+        color: mix(white, $base, $i * 10)
+    }
+    }
+
+    
+}
+
+@for $i from 1 through 9 {
+    @if ($i == 2) {
+        .text-purple-dark-#{$i} {
+        color: mix(black, $base, $i * 10)
+    }
+    }
+
+
+    
+}
+
+
+
+//font
+$basefont: 20px;
+$fontbig: $basefont * 5;
+$fontsmall: $basefont * 2;
+$fontmini: $basefont /2;

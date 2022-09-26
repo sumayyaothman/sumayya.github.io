@@ -1,0 +1,57 @@
+.text-purple-light-1 {
+  color: #8d1a8d;
+}
+
+.text-purple-light-2 {
+  color: #993399;
+}
+
+.text-purple-light-3 {
+  color: #a64da6;
+}
+
+.text-purple-light-4 {
+  color: #b366b3;
+}
+
+.text-purple-light-6 {
+  color: #cc99cc;
+}
+
+.text-purple-light-7 {
+  color: #d9b3d9;
+}
+
+.text-purple-light-8 {
+  color: #e6cce6;
+}
+
+.text-purple-light-9 {
+  color: #f2e6f2;
+}
+
+.text-purple-dark-2 {
+  color: #660066;
+}
+
+body {
+  color: ivory;
+}
+
+.header {
+  color: purple;
+  font-size: 100px;
+}
+
+.subject ol .science {
+  color: red;
+  font-size: 40px;
+}
+.subject ol .art {
+  color: blue;
+  font-size: 10px;
+}
+.subject ol .comm {
+  color: green;
+  font-size: 40px;
+}/*# sourceMappingURL=style.css.map */
